@@ -6,8 +6,8 @@ from typing import Optional, Tuple, Union
 import numpy as np
 import pygame
 from pygame import gfxdraw
-import gym
-from gym import spaces
+import gymnasium as gym
+from gymnasium import spaces
 from collections import deque
 
 
