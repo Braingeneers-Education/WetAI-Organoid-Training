@@ -12,6 +12,10 @@ The first half of the final project where you will be teaching a live mouse orga
 
 You normally will be working on this with the github codespaces, but you can also git clone this repository to your own machine and work on it there. Committing and pushing as you go. If you do this I suggest you use VScode as it makes the whole process of cloning very simple, just a few button presses. In a new VScode window go to file browser and hit "Clone Repository," then paste in the link to this repository into the popup. You may need to add a few pip installs but this whole process is pretty straightforward. It is worth noting that if you choose to edit it this way you will need to get the connectoid data a different way than who it is done for the codespace environment. In this [google drive](https://drive.google.com/drive/folders/1r9X9KDWgY0HSV3NPekrjVINlG4XsmYmi) you will find the data set, download this and add it to your personal repository (do not commit it, as it is too big for github), then go to the data loader functions and change the paths to match the new data set source. 
 
+## Testing the Game
+
+You can run the file food_land.py on your local computer. This will allow you to see the environment your organoid will be navigating and might make devising the encode/decode functions easier. Also it is interesting to try to get the game working on your own!
+
 ## Getting Started
 
 To begin or resume your assignment, simply click the "Code" button in the top right of your repository area. From there press the + button in the codespaces tab, setting up your codespace may take a few minutes. If you leave after setting the codespace up, you can resume it at any time through the same code menu. Once the codespace is set up make the changes you need, answer the questions and then you can submit in the Source Control tab, by staging your changes with the + button and then using the big green "commit" button with a commit message and then hitting the "Sync Changes" button that pops up afterwards. Feel free to submit as many times as you wish.
