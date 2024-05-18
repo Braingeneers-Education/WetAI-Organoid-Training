@@ -19,3 +19,7 @@ You can run the file food_land.py on your local computer. This will allow you to
 ## Getting Started
 
 To begin or resume your assignment, simply click the "Code" button in the top right of your repository area. From there press the + button in the codespaces tab, setting up your codespace may take a few minutes. If you leave after setting the codespace up, you can resume it at any time through the same code menu. Once the codespace is set up make the changes you need, answer the questions and then you can submit in the Source Control tab, by staging your changes with the + button and then using the big green "commit" button with a commit message and then hitting the "Sync Changes" button that pops up afterwards. Feel free to submit as many times as you wish.
+
+## Sharing Notebook and Code
+
+We kindly ask you to not share any code given to you in the assignment outside of this class, make sure to keep any files used in the assignment between class members only.
